@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fatwir.github.io/sitemap.xml
