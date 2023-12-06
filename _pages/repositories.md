@@ -3,8 +3,8 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: Personal Github Stats
-nav: true
-nav_order: 3
+nav: false
+nav_order: 
 ---
 
 ## GitHub users
