@@ -5,7 +5,7 @@ description: A project aimed at creating synthetic images to train object detect
 img: assets/img/project_2.jpg
 importance: 2
 category: work
-giscus_comments: true
+
 ---
 
 This project focusses on the generation of photo-realistic synthetic images in both 2D and 3D formats with the aim of better training object detection models. 
