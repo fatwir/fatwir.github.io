@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted as an oral presentation at NeurIPS 2023 in New Orleans, USA! Received travel grant from UW ECE to attend the conference.
+Paper accepted as an oral presentation at NeurIPS 2023 in New Orleans, USA! Received travel grant from UW ECE to attend the conference.

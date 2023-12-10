@@ -1,13 +1,11 @@
 ---
 layout: post
-date: 2022-09-28
+date: 2021-05-04
 inline: true
 related_posts: false
 ---
 
-Started Masters in Electrical Engineering at the University of Washington! Began working in the Ubiquitous Computing Lab at UW.
-
-
+Received the prestigious DAAD-WISE Fellowship to pursue a research internship at PLRI Labs, TU Braunschweig
 
 
 

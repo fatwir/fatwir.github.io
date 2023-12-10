@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Began my deep learning-based research internship with Alpenglow Biosciences, Seattle.
+Began deep learning-based research internship with Alpenglow Biosciences, Seattle.
