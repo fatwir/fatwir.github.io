@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: This is a growing collection of my project(s), and updates are constantly being made. For a complete list of all my projects, please visit my Github profile at https://github.com/fatwir.
+description: This is a growing collection of my project(s), and updates are constantly being made. For a complete list of all my projects, please visit my [Github profile](https://github.com/fatwir).
 nav: true
 nav_order: 2
 display_categories: [work, fun]
