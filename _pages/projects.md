@@ -5,14 +5,15 @@ permalink: /projects/
 description: This is a growing collection of my project(s), and updates are constantly being made. For a complete list of all my projects, please visit my <a href='https://github.com/fatwir'>Github profile</a>
 nav: true
 nav_order: 2
+display_categories: [work]
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
 <div class="projects">
-{%- if site.enable_project_categories%}
+{%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
-  
+  {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
@@ -32,7 +33,7 @@ horizontal: false
     {%- endfor %}
   </div>
   {%- endif -%}
- 
+  {% endfor %}
 
 {%- else -%}
 <!-- Display projects without categories -->
