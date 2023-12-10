@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Received the prestigious DAAD-WISE Fellowship to pursue a research internship at PLRI Labs, TU Braunschweig
+Received the prestigious DAAD-WISE Fellowship to pursue a research internship at PLRI Lab, TU Braunschweig
 
 
 
