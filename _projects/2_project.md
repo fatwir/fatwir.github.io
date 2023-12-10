@@ -16,7 +16,6 @@ Additionally, the project also achieved a validation PSNR of 25.96 dB when train
 
 To note, the entire study was applied to solve problems associated with retail self-checkouts, and the results were promising in terms of increased accuracy and speed of object detection. 
 
-![Photo Realistic Synthetic Image Generation Example 1](assets/img/2.jpg)
-Caption: Pipeline used to generate images
+{% include figure.html path="assets/img/2.jpg" title="Pipeline used to generate images" class="img-fluid rounded z-depth-1" %}
 
 The implications of this project include, but are not limited to, improving the shopping experience at self-checkouts in retail stores, making self-checkout terminals more efficient and user-friendly.
