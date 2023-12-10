@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my website! I'm currently a Master's student at the University of Washington, Seattle, majoring in Electrical and Computer Engineering. My primary areas of interest lie in Machine Learning and Computer Vision. 
 
-I am currently interning at [Alpenglow Biosciences](https://www.alpenglowbiosciences.com/) where we attempt to solve the virtual stain transfer problem for histopathology. At UW, I am a member of the [GRAIL Lab](https://grail.cs.washington.edu/), advised by [Prof. Linda Shapiro](https://homes.cs.washington.edu/~shapiro/). As part of my graduate studies, I have worked on multimodal and contrastive based learning for large hispathology datasets and implementing NeRFs for custom datasets.
+I am currently interning at [Alpenglow Biosciences](https://www.alpenglowbiosciences.com/), solving the neural style transfer problem for histopathology. At UW, I am a member of the [GRAIL Lab](https://grail.cs.washington.edu/), advised by [Prof. Linda Shapiro](https://homes.cs.washington.edu/~shapiro/). As part of my graduate studies, I have worked on multimodal and contrastive based learning for large hispathology datasets and implementing NeRFs for custom datasets.
 
 I also briefly worked at the [Ubiquitous Computing Lab](https://ubicomplab.cs.washington.edu/), focusing on the noninvasive measurement of vital signals using MMWave Radar for physiological sensing
 
