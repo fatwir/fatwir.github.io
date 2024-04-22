@@ -8,13 +8,11 @@ category: work
 
 ---
 
-This project focusses on the generation of photo-realistic synthetic images in both 2D and 3D formats with the aim of better training object detection models. 
+The project at hand focuses on the development and implementation of an algorithm that utilizes Kalman filters for tracking multiple objects in real-time settings. This is particularly essential in various practical scenarios such as airport security checkpoints, traffic signal monitoring, and surveillance systems where the simultaneous tracking of multiple objects is imperative. By employing a fixed camera to capture the scene and extract relevant data, the algorithm aims to efficiently track moving objects as they traverse the monitored area.
 
-One of the major achievements of this project was the acceleration of the training process by almost 20%. This was achieved by employing Fully-Fused MLPs to train and validate a custom object dataset comprising around 170 images. 
+Through the utilization of Kalman filters, the algorithm predicts the future coordinates of each object by creating a bounding box around them. This predictive capability is instrumental in accurately tracking the trajectory of multiple objects simultaneously. The effectiveness of the algorithm is put to the test through evaluation on two distinct datasets - one containing a single object for tracking and another featuring multiple objects. The project's success in accurately tracking these objects in real-time conditions underscores its potential in enhancing surveillance, traffic management, and other applications requiring efficient object tracking capabilities.
 
-Additionally, the project also achieved a validation PSNR of 25.96 dB when training a Neural Radiance Field. The achievement demonstrated a marginal 0.6 dB deviation from the original implementation and, crucially, managed to reduce the training time by almost half. These achievements came about as the result of the project's focus on reducing computational cost and improving training efficiency. 
-
-To note, the entire study was applied to solve problems associated with retail self-checkouts, and the results were promising in terms of increased accuracy and speed of object detection. 
+The project's outcomes demonstrate the algorithm's robustness in tracking multiple objects under dynamic and real-time conditions. By showcasing its ability to accurately monitor and predict the movements of various objects simultaneously, the project highlights the algorithm's efficiency and reliability in diverse scenarios. The implementation of Kalman filters for object tracking not only enhances the overall surveillance and monitoring processes but also showcases the algorithm's adaptability and effectiveness in scenarios where the tracking of multiple objects is essential for operational success.
 
 {% include figure.html path="assets/img/2.jpg" title="Pipeline used to generate images" class="img-fluid rounded z-depth-1" %}
 
