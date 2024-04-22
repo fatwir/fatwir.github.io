@@ -8,6 +8,9 @@ nav_order: 4
 ---
 ---
 ### University of Washington
+##### *"[Intro to Data Science](https://courses.cs.washington.edu/courses/cse180/)"* (CSE 180)
+- Prof. Ryan Mass, Spring '24
+
 ##### *"[Data Programming](https://courses.cs.washington.edu/courses/cse160/24wi/)"* (CSE 160)
 - Prof. Andrew Gibbon, Winter '24
 
