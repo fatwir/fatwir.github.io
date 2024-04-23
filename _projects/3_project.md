@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Photo Realistic Synthetic Image Generation
-description: A project aimed at creating synthetic images to train object detection models
-img: assets/img/project_2.jpg
+title: Object Tracking
+description: Object Tracking Using Kalman Filters for Single and Multiple Targets
+img: assets/img/kalman1.png
 importance: 2
 category: work
 
@@ -14,6 +14,6 @@ Through the utilization of Kalman filters, the algorithm predicts the future coo
 
 The project's outcomes demonstrate the algorithm's robustness in tracking multiple objects under dynamic and real-time conditions. By showcasing its ability to accurately monitor and predict the movements of various objects simultaneously, the project highlights the algorithm's efficiency and reliability in diverse scenarios. The implementation of Kalman filters for object tracking not only enhances the overall surveillance and monitoring processes but also showcases the algorithm's adaptability and effectiveness in scenarios where the tracking of multiple objects is essential for operational success.
 
-{% include figure.html path="assets/img/2.jpg" title="Pipeline used to generate images" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/kalman2.jpg" title="Governing formulae for object detetction using kalman filters" class="img-fluid rounded z-depth-1" %}
 
 The implications of this project include, but are not limited to, improving the shopping experience at self-checkouts in retail stores, making self-checkout terminals more efficient and user-friendly.
