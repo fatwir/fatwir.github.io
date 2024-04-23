@@ -3,7 +3,7 @@ layout: page
 title: Object Tracking
 description: Object Tracking Using Kalman Filters for Single and Multiple Targets
 img: assets/img/kalman1.png
-importance: 2
+importance: 3
 category: work
 
 ---
