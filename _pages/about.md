@@ -24,7 +24,7 @@ Welcome to my website! I'm currently a Master's student at the University of Was
 I am currently involved in a joint research project with the [BioNLP Lab](https://homes.cs.washington.edu/~swang/) and the [GRAIL Lab](https://grail.cs.washington.edu/) at the University of Washington.  Our goal is to develop robust representations for OCT-IR imaging data to enhance reconstruction and facilitate downstream tasks. I am primarly advised by [Prof. Linda Shapiro](https://homes.cs.washington.edu/~shapiro/) and have worked on multimodal and contrastive based learning for large hispathology datasets and implementing NeRFs for custom datasets. During the summer and fall of 2023, I had interned at [Alpenglow Biosciences](https://www.alpenglowbiosciences.com/), solving the neural style transfer problem for histopathology. 
 
 I also briefly worked at the [Ubiquitous Computing Lab](https://ubicomplab.cs.washington.edu/), focusing on the noninvasive measurement of vital signals using MMWave Radar for physiological sensing.
-
+<br><br><br><br>
 I completed my Undergraduate Thesis (2022) focussed on optimizing adversarial learning at [Spectrum Lab](https://sites.google.com/view/spectrumlabeeiisc/spectrum-lab?authuser=0), Indian Institute of Science with [Prof. Chandra Sekhar Seelamantula](https://ee.iisc.ac.in/chandra-sekhar-seelamantula/). During my undergraduate studies, I was fortunate to be advised by [Prof. Jora Gonda](https://eee.nitk.ac.in/professor/JMG) and [Prof. Krishnan CMC](https://sites.google.com/view/krishnan-chemmangat). 
 
 In 2022, I graduated as salutatorian from the National Institute of Technology Karnataka, India, with a Bachelors in Electrical Engineering and minor in Computer Science.
