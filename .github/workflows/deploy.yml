@@ -1,5 +1,4 @@
 name: deploy
-
 on:
   push:
     branches:
@@ -10,26 +9,32 @@ on:
       - master
       - main
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
     - name: Checkout 🛎️
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2.2'
+        ruby-version: '3.3'
         bundler-cache: true
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
     - name: Install and Build 🔧
       run: |
         pip3 install --upgrade jupyter
-        npm install -g mermaid.cli
+        npm install -g @mermaid-js/mermaid-cli
         export JEKYLL_ENV=production
         bundle exec jekyll build
     - name: Deploy 🚀
@@ -37,4 +42,3 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: _site
-
