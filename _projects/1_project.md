@@ -4,7 +4,7 @@ title: NST for histology
 description: An innovative project incorporating Neural Style Transfer concepts for use in histopathology.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: academic
 
 ---
 
