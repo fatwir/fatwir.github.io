@@ -4,7 +4,7 @@ title: Photo Realistic Synthetic Image Generation
 description: A project aimed at creating synthetic images to train object detection models
 img: assets/img/project_2.jpg
 importance: 2
-category: work
+category: academic
 
 ---
 
