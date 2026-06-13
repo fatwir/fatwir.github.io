@@ -25,6 +25,6 @@ I also briefly worked at the [Ubiquitous Computing Lab](https://ubicomplab.cs.wa
 <br><br>
 I completed my Undergraduate Thesis (2022) focused on optimizing adversarial learning at [Spectrum Lab](https://sites.google.com/view/spectrumlabeeiisc/spectrum-lab?authuser=0), Indian Institute of Science with [Prof. Chandra Sekhar Seelamantula](https://ee.iisc.ac.in/chandra-sekhar-seelamantula/). During my undergraduate studies, I was fortunate to be advised by [Prof. Jora Gonda](https://eee.nitk.ac.in/professor/JMG) and [Prof. Krishnan CMC](https://sites.google.com/view/krishnan-chemmangat).
 
-In 2022, I graduated as salutatorian from the National Institute of Technology Karnataka, India, with a Bachelor's in Electrical Engineering and a minor in Computer Science.
+In 2022, I graduated from the National Institute of Technology Karnataka, India, with a Bachelor's in Electrical Engineering and a minor in Computer Science.
 
 Thank you for checking out my website. Please feel free to reach out if you have any suggestions or require further information.
